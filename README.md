@@ -50,7 +50,7 @@ chmod +x conky-launch.sh
 You may also want to move the fonts to the correct folder
 
 ```bash
-sudo mv ~/conky/fonts/* /usr/share/fonts"
+sudo mv ~/conky/fonts/* /usr/share/fonts
 ```
 
 ## Set to autorun
