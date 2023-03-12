@@ -1,4 +1,4 @@
-![Assistant](desktop.png)
+![Assistant](Desktop.png)
 
 
 THIS IS A MODIFIED VERSION OF A CONKY I FOUND
