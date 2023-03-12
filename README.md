@@ -1,3 +1,6 @@
+![Assistant](desktop.png)
+
+
 THIS IS A MODIFIED VERSION OF A CONKY I FOUND
 
 The original author and his config can be found here:  https://github.com/Kosteron/Conky
